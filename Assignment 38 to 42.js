@@ -30,3 +30,14 @@
 // leap(d)
 
 //                                 QUESTION 3
+// var a = prompt("Enter first Number")
+// var b = prompt("Enter sec Number")
+// var c = prompt("Enter third Number")
+// function areas(a,b,c){
+// var S = ( a + b + c ) / 2;
+// area = S *(S - a)*(S - b)*(S - c);
+
+// console.log("The area is "+area)
+
+// }
+// areas(a,b,c)
