@@ -10,12 +10,11 @@
 // power(a,b)
 
 //                                 QUESTION 2
-
 // var d = prompt("Enter Year")
 // function leap(d) {
 //     if (d === "2012") {
 //         alert("This is leap year")
-//     }
+//    }
 //     else if (d === "2016") {
 //         alert("This is leap year")
 //     }
@@ -29,25 +28,24 @@
 // }
 // leap(d)
 
-
 //                                            Question 3
 
 // var a = 5; 
 // var b = 6; 
 // var c = 7; 
-// var s;
-// function two(a,b,c,s){
+// var S;
+// function two(a,b,c,S){
 //     function one(a,b,c){
-//         var s=(a + b + c)/2;
-//         return s;
+//         var S=(a + b + c)/2;
+//         return S;
 //     }
 //     s = one(a,b,c);
-//     console.log(s);
+//     console.log(S);
 
-//     var area= (s*((s-a)*(s-b)*(s-c)));
+//     var area= (S*((S-a)*(S-b)*(S-c)));
 //     return area;
 // }
-// var area= two(a,b,c,s);
+// var area= two(a,b,c,S);
 // console.log(area);
 
 //                                            Question 4
@@ -75,7 +73,7 @@
 
 //                                            Question 5
 
-// function check(){
+// function FOO(){
 //         var char=prompt("Enter a character");
 //         var name ="abcdefghijklmnopqrstuvwxyz";
 //         console.log(name.length);
@@ -83,19 +81,18 @@
 //             var charCheck=name[i];
 //             if(char==charCheck){
 //                 console.log("Index is "+i);
-//                 break;
-//             }
+//                 break; }
 //            else{
 //             "invalid  input";
 //             }
 //         }
         
 //     }
-//     check();
+//     FOO();
 
 //                                            Question 6
 
-// function vowel(str) {             
+// function vowels(str) {             
 //     var newString = " ";                            
 //     for (let i = 0; i < str.length; i++)  
 // {           
@@ -106,6 +103,6 @@
 //     };   
 //     return newString;   
 //   };  
-//   console.log(vowel(prompt("Enter a string to remove vowels")));
+//   console.log(vowels(prompt("Enter a string to remove vowels")));
 
 
