@@ -42,5 +42,3 @@
 
 // console.log(plan1)
 // console.log(plan2)
-
-
