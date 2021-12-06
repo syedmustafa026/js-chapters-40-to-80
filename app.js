@@ -1,4 +1,4 @@
-//                                    OBJECTS
+//                                    OBJECTS Assignment
 //                                   QUESTION 1
 // var things = [
 //     { name: "juice", price: "50", quantity: "3" },
